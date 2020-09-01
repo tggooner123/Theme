@@ -380,11 +380,7 @@
 		float: left;
 		font-size: 25px;
 	}
-	#testimonial_slider .testimonial-container {
-    position: relative;
-    padding-left: 0;
-    padding-bottom: 25px;
-}
+	
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -395,8 +391,8 @@
 		overflow-x: hidden;
 	}
 	.container {
-		width: 750px;
-		max-width: 750px;
+		width: 900px;
+		max-width: 900px;
 	}
 	.header_top ul {
 		margin: 0;
@@ -811,6 +807,13 @@
     width: 100%;
     position: relative;
     margin-top: 20px; 
+}
+
+#testimonial_slider .testimonial-container {
+    position: relative;
+    padding-left: 0px;
+    padding-bottom: 25px;
+    padding-right: 40px;
 }
 
 }
