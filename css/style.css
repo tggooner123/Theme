@@ -1449,12 +1449,7 @@ div#pallax_slider {
 	overflow: hidden;
 }
 
-.dott_star {
-	background-image: url('../images/star_dots.png');
-	width: 100%;
-	background-position: center center;
-	height: 100%;
-}
+
 
 .dott_star2 {
 	width: 100%;
@@ -2022,10 +2017,6 @@ section.dottad_star_bg {
 .text_align_left .icon_feature {
 	margin-right: 25px;
 	margin-left: 0;
-}
-
-.stars_dottat {
-	background: url('../images/star_dots.png');
 }
 
 .only_parallax {
